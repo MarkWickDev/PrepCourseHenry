@@ -1,2 +1,1 @@
-# PrepCourseHenry
-Repositorio modulo 2 bootcamp
+Esto es uan prieba de como crear un repositorio y clonarlo desde github a mi computadora.
